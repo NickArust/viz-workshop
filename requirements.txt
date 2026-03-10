@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+seaborn>=0.12
+plotly>=5.15
+dash>=2.11
+jupyter-dash>=0.4.2
+requests>=2.31
+pyarrow>=10.0
