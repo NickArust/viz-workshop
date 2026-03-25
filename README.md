@@ -169,6 +169,8 @@ Click:
 
 Each notebook includes a setup cell that installs required packages automatically.
 
+
+** Be aware that when using Colab, you will need to copy and paste the contents of data_prep.py into one of the cells and run it to get the data prep functionality **
 ---
 
 ## Option 3 — Run in VS Code
