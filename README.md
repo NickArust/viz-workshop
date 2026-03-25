@@ -1,3 +1,6 @@
+# We will keep the accounts active for a week (until 3/31/26 at 4pm). After that time, the virtual machine will be closed and all accounts will be deactivated. Please use this time to experiment with the code and get it set up and running on your own local machine if you wish
+
+
 # Beginner Data Visualization Workshop (Citi Bike)
 
 This workshop is a beginner-friendly journey from Matplotlib basics to an interactive Dash dashboard. We use one dataset and a single narrative throughout:
