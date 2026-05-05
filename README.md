@@ -175,7 +175,6 @@ Each notebook includes a setup cell that installs required packages automaticall
 
 ## Option 3 — Run in VS Code
 
-If you already use VS Code, this is often the smoothest workflow.
 
 ### Install Extensions
 
@@ -201,9 +200,3 @@ Data source: Citi Bike System Data / Trip Histories.
 
 This workshop downloads one recent month of data, then samples to a smaller size for speed.
 
-## Troubleshooting
-- Install issues: restart the runtime and re-run the install cell.
-- Plotly rendering: make sure `plotly` is installed and run the import cell first.
-
-## Notes on File Size and Sampling
-The raw monthly file can be large. The notebooks automatically cache a sampled and cleaned dataset in `data/processed/` for faster reruns.
